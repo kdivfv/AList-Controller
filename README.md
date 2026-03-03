@@ -1,3 +1,11 @@
 # -AList-
-安卓版AList的控制器使用termux运行，脚本跟AList二进制文件放在一起 
-运行代码sh AList Controller
+安卓版AList的控制器使用termux运行，脚本跟AList二进制文件放在一起
+
+运行脚本代码 sh AList Controller( 注:需要在脚本的目录才可以用)
+
+建议使用Termux
+
+下载链接https://github.com/termux/termux-app/releases
+
+
+Mt管理器也可以用，因为不按流程退出会有进程残留，所以不推荐(注:此方法必须要root)
