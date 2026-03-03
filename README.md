@@ -9,3 +9,5 @@ Termux下载链接 https://github.com/termux/termux-app/releases
 
 
 Mt管理器也可以用，因为不按流程退出会有进程残留，所以不推荐(注:此方法必须要root)
+
+Termux下载脚本链接指令
